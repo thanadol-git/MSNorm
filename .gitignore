@@ -1,4 +1,7 @@
 # Folders 
 plasma_msstats
 env
+out/
+
+# Files 
 .vscode
